@@ -1,0 +1,2 @@
+A file for testing Git
+Version 1.0
