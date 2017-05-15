@@ -1,2 +1,3 @@
 A file for testing Git
 Version 1.0
+made some changes
